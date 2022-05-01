@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm an Software Engineer passionate by knowledge and technologie.
 
@@ -16,3 +16,7 @@ I'm an Software Engineer passionate by knowledge and technologie.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About
+![Thiago Status](https://github-readme-stats.vercel.app/api?username=tpiva&show_icons=true)
+<!--[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tpiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
