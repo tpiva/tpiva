@@ -44,9 +44,11 @@ I'm an Software Engineer passionate by knowledge and technologie.
 
 <br/>  
 
-### About
+### Github Stats
 ![Thiago Status](https://github-readme-stats.vercel.app/api?username=tpiva&show_icons=true)
 <!--[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tpiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
