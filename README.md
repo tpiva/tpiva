@@ -9,7 +9,7 @@ I'm an Software Engineer passionate by knowledge and technologie.
 - 🔭 I’m currently working on InGaia as SR Backend Developer in NodeJs
 - 🌱 I’m currently learning Domain Driven Desing (DDD), Design Patterns, TDD, Clean Architecture.
 
-## Languages and Tools  
+### Languages and Tools  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
@@ -48,7 +48,7 @@ I'm an Software Engineer passionate by knowledge and technologie.
 ![Thiago Status](https://github-readme-stats.vercel.app/api?username=tpiva&show_icons=true)
 <!--[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tpiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=tpiva&&style=flat-square)  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
