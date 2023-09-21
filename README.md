@@ -4,10 +4,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-I'm an Software Engineer passionate by knowledge and technologie.
+I'm a Software Engineer passionate about knowledge and technology.
 
-- 🔭 I’m currently working on InGaia as SR Backend Developer in NodeJs
-- 🌱 I’m currently learning Domain Driven Desing (DDD), Design Patterns, TDD, Clean Architecture.
+- 🔭 I’m currently working on Venturus as an SR Backend Developer in NodeJs
+- 🌱 I’m currently learning Domain Driven Desing (DDD), Design Patterns, TDD, and Clean Architecture.
 
 ### Languages and Tools  
 <div align="center">  
