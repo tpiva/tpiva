@@ -50,5 +50,9 @@ I'm a Software Engineer passionate about knowledge and technology.
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tpiva&&style=flat-square)  
 
+### Roadmap
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65ba9a9a0c548122836f04b7?variant=light)](https://roadmap.sh)
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
